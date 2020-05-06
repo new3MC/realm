@@ -30,6 +30,7 @@
 도전과제 화면의 Vanilla Tweaks 탭에서도 확인 가능
 
 1. Player Grave
+
    플레이어가 사망했을 때 아이템을 흩뿌리는 대신 죽은 자리에 무덤이 생깁니다. 그 플레이어가 무덤 위에서 Shift(웅크리기)키를 누르면 아이템이 회수됩니다.
    - 알려진 버그: 계단 위에서 사망했을때 회수가 되지 않는 버그. 아래 그림처럼 사다리를 설치하면 사다리 위에서 웅크려서 회수 가능합니다
 ![임시해결책](https://github.com/new3MC/realm/blob/master/png/grave_glitch.png)
