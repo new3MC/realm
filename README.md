@@ -44,7 +44,7 @@
    
 
    레드스톤 관련 블럭들과 유광 테라코타 블럭을 렌치로 돌릴수 있습니다
-   
+   렌치 조합법
    ![조합법](https://github.com/new3MC/realm/blob/master/png/wrench_recipe.png)
    
 4. Double Shulker Shells
