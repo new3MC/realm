@@ -4,7 +4,7 @@
    
    접속자 중 일부만 침대에 누워도 아침이 됩니다.
    
-2. Blaze and Cave(?) Achievement(https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
+2. BlazeandCave's Advancements Pack(https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
 
    약 700개의 도전과제를 추가합니다.
    
@@ -63,5 +63,5 @@
 
 
 ## 예정 변경사항
-1. 1.16버전이 정식출시되면 지옥은 갈아엎을 예정입니다.
+1. 1.16버전이 정식출시되면 지옥은  예정입니다.
 2. 겉날개를 쉽게 얻게 할 방법 고민중입니다.. 아이디어 있으시면 말씀해주세요.
