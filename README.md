@@ -1,3 +1,7 @@
+## 5월 8일 업데이트
+
+1. 겉날개, 셜커 껍데기 파는 주민 추가(주민상점)
+
 ## 설치한 데이터팩 목록
 
 1. Multiplayer Sleep(https://www.planetminecraft.com/data-pack/multiplayer-sleep-datapack-sleeping-in-multiplayer/)
